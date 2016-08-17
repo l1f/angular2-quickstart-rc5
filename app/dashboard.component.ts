@@ -22,5 +22,4 @@ export class DashboardComponent implements OnInit {
         this.router.navigate(link);
 
     }
-
 }
